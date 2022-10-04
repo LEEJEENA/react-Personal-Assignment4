@@ -1,0 +1,20 @@
+.Todobox {
+    border: 2px solid #003E00;
+    border-radius: 1em;
+    width: 300px;
+    height : 150px;
+    margin-top: 10px;
+    
+}
+
+.Todo-b{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+
+.Todo-button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
